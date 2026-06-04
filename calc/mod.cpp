@@ -1,5 +1,6 @@
 #include "mod.h"
 
+// ¸ðµå´Â »×»×ÀÌ
 int mod(int x, int y)
 {
 	return 0;
